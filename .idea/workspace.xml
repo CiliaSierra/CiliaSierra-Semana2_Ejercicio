@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="82722416-6de9-4721-a6bb-d609dda6ccf1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
-      <change beforePath="$PROJECT_DIR$/src/Mundo.java" afterPath="$PROJECT_DIR$/src/Mundo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Objeto.java" afterPath="$PROJECT_DIR$/src/Objeto.java" />
-      <change beforePath="$PROJECT_DIR$/src/ProgramaPrincipal.java" afterPath="$PROJECT_DIR$/src/ProgramaPrincipal.java" />
-      <change beforePath="$PROJECT_DIR$/src/Usuario.java" afterPath="$PROJECT_DIR$/src/Usuario.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -323,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519228329538</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Cambios de Obejeto y Funciones relacionadas">
+      <created>1519252675647</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1519252675648</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -395,7 +397,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primera version" />
     <MESSAGE value="Añado el gitgnore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añado el gitgnore" />
+    <MESSAGE value="Cambios de Obejeto y Funciones relacionadas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambios de Obejeto y Funciones relacionadas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -520,6 +523,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -850,6 +854,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
