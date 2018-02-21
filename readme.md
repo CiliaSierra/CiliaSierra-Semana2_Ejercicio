@@ -1,3 +1,4 @@
 # Semana2_Ejercicio
-Clases y programa inicial del juego
+Ejercicio sobre colecciones
+Clases y alfunos metodos iniciales del juego
 Autoras: Sara Padilla y Cilia Sierra
